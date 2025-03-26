@@ -1,9 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-Nandita Pore (Mumbai, Maharashtra, India)
-
-Ссылка на оригинал датасета: https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-mc/blob/main/medical_cost.csv
 
 ## Версия датасета
 
@@ -21,3 +18,8 @@ Nandita Pore (Mumbai, Maharashtra, India)
 - smoker — статус курения (‘yes’ = Курит; ‘no’ = Не курит) 
 - region — географический регион пациента (‘northeast’ = Северо-Восток; ‘northwest’ = Северо-Запад; ‘southeast’ = Юго-Восток; ‘southwest’ = Юго-Запад) 
 - charges — размер медицинских расходов, понесенных пациентом (числовой)
+
+## Авторы датасета
+Nandita Pore (Mumbai, Maharashtra, India)
+
+Ссылка на оригинал датасета: https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset
